@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,300,300italic);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
+body {
+	font-family: Raleway, Helvetica;
+	background-image: url(img/dj.png);
+	background-size: cover;
+}
+
+.container h1 {
+	font-family: "Pacifico", Helvetica;
+}
+
+.enterText {
+    text-align: center;
+    padding-top: 3em;
+}
+
+.enterText h1{
+    font-size: 80px;
+}
+
+.enterText a {
+    text-decoration: none;
+}
+
+.transparent {
+  background: rgba(255,255,255,0.6);
+}
